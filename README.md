@@ -1,2 +1,4 @@
 # Hello-World
-Just learning and i think am loving this.
+
+Hi there
+This is my first and don't judge. Am cool always.
